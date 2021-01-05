@@ -1,0 +1,1 @@
+This repo is for creating *knowledge graph embeddings* using data from a TigerGraph database. ```getTriplets.ipynb``` contains the query and code to embed a graph, with data extracted using pyTigerGraph. ```entityMath.ipynb``` contains code to visualize these embeddings for analysis.
